@@ -121,4 +121,4 @@ Git - это одна из реализаций распределенных с�
 
     git branch
 
-    git log --oneline --all --graph
+    git log --oneline --all --graph    
